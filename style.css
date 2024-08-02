@@ -5,7 +5,7 @@ body {
 }
 
 header {
-    background-color: #f0f0f0;
+    background-color: #b1aeae;
   
 }
 
@@ -42,7 +42,7 @@ header input[type="date"] {
 
 header button {
     padding: 10px 20px;
-    background-color: #007bff;
+    background-color: #074990;
     color: white;
     border: none;
     cursor: pointer;
@@ -87,7 +87,7 @@ main {
 .paquete-turistico .boton {
     display: block;
     padding: 10px 20px;
-    background-color: #007bff;
+    background-color: #174b82;
     color: white;
     border: none;
     cursor: pointer;
